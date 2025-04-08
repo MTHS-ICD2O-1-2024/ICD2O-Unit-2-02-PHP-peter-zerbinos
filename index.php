@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="The math program, PHP" />
+  <meta name="description" content="The math program, in PHP" />
   <meta name="keywords" content="mths, icd2o" />
   <meta name="author" content="Peter Zerbinos" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -30,7 +30,7 @@
     sizes="16x16"
     href="./favicon-16x16.png" />
   <link rel="manifest" href="./site.webmanifest" />
-  <title>The math program, PHP</title>
+  <title>The math program, in PHP</title>
 </head>
 
 <body>
@@ -38,7 +38,7 @@
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <header class="mdl-layout__header">
       <div class="mdl-layout__header-row">
-        <span class="mdl-layout-title">The math program, PHP</span>
+        <span class="mdl-layout-title">The math program, in PHP</span>
       </div>
     </header>
     <main class="mdl-layout__content">
